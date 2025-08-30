@@ -1,6 +1,10 @@
-# Tooth Numbering (FDI) – YOLO Training
+# Tooth Numbering – YOLO Training
 
-Overview
+https://colab.research.google.com/drive/1RmOJWPhmzZhAdeH-vVbUDsHBi1oGzN7X?usp=sharing 
+
+CHECK THE ABOVE LINK FOR NOTEBOOK.
+
+# Overview
 
 End-to-end pipeline for training a YOLO detector to localize and identify teeth using the FDI numbering system on panoramic dental images. The repository/script prepares the dataset, trains with pretrained weights at 640, evaluates on val/test, saves metrics and confusion matrices, generates sample predictions, and optionally post-processes predictions for anatomical consistency.
 
